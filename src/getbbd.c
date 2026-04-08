@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<time.h>
-#include"getBDD.h"
+#include"getBBD.h"
 
 
 void displayColorLetter(char* word, char* try)
